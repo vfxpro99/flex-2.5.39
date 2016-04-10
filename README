@@ -1,3 +1,9 @@
+Mirrored here because I haven't found a way to directly curl the file
+from the sourceforge repo and I want to be able to fetch the repo
+from a command line, not a browser.
+--------------------------
+
+
 This is flex, the fast lexical analyzer generator.
 
 flex is a tool for generating scanners: programs which recognize
